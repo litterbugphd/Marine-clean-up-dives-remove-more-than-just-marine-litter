@@ -15,5 +15,9 @@ Payton, TG, Sims, RJ, Bulik, LT, &amp; Childress, MJ (2026). Marine clean-up div
 -material: gives basic statistics for biomass per material type in grams and kilograms 
 -taxa_material: gives basic statistic for biomass per taxa group per material type in grams and kilograms 
 
+#mvabund ...
+-multivariate statistics 
+-univariate statistics
+
 #PADI Mean Percent Per Year
 -contains material type percent statistics for PADI AWARE reported dives from 2013-2023 after filtering for the Florida Keys, coral reef ecosystems, and dives containing at least one piece of debris.
