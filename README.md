@@ -15,6 +15,9 @@ Payton, TG, Sims, RJ, Bulik, LT, &amp; Childress, MJ (2026). Marine clean-up div
 -material: gives basic statistics for biomass per material type in grams and kilograms 
 -taxa_material: gives basic statistic for biomass per taxa group per material type in grams and kilograms 
 
+#DAD Taxa Debris 
+-Raw count data of taxa and litter material types by dive.
+
 #mvabund ...
 -multivariate statistics 
 -univariate statistics
